@@ -14,6 +14,7 @@ Database Used: MySQL
 - Edit Task
 - Delete Task
 - Update Status
+- Light Mode/Dark Mode
 
 ## Setup
 1. XAMPP run Apache and MySQL
