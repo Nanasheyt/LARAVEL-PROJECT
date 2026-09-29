@@ -1,20 +1,34 @@
 # Task Manager (Laravel)
 
-Project Code: WST21-PM-2026-SF
+## Project Code
 
-Student Name: DARWIN A. SUAREZ
+WST21-PM-2026-SF
 
-Course & Year: BSIT2
+## Student Name
 
-Database Used: MySQL
+DARWIN A. SUAREZ
+
+## Course & Year
+
+BSIT2
+
+## Database Used
+
+MySQL
 
 ## Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
-- Light Mode/Dark Mode
+- **Add Task**
+   Allows users to create and add new tasks to the task manager.
+- **View Tasks**
+  Allows users to see all their saved tasks in one place.
+- **Edit Task**
+  Allows users to modify the details of an existing task.
+- **Delete Task**
+  Allows users to remove tasks that are no longer needed.
+- **Update Status**
+  Allows users to change a task's status, such as pending or completed.
+- **Light Mode/Dark Mode**
+  Allows users to switch between light and dark themes for a more comfortable viewing experience.
 
 ## Setup
 1. XAMPP run Apache and MySQL
