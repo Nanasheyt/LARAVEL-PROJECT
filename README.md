@@ -10,7 +10,7 @@ DARWIN A. SUAREZ
 
 ## Course & Year
 
-BSIT2
+BSIT 2nd YEAR
 
 ## Database Used
 
