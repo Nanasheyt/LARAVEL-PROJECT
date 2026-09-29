@@ -17,18 +17,12 @@ BSIT 2nd YEAR
 MySQL
 
 ## Features
-- **Add Task**
-- Allows users to create and add new tasks to the task manager.
-- **View Tasks**
-- Allows users to see all their saved tasks in one place.
-- **Edit Task**
-- Allows users to modify the details of an existing task.
-- **Delete Task**
-- Allows users to remove tasks that are no longer needed.
-- **Update Status**
-- Allows users to change a task's status, such as pending or completed.
-- **Light Mode/Dark Mode**
-- Allows users to switch between light and dark themes for a more comfortable viewing experience.
+- **Add Task** - Allows users to create and add new tasks to the task manager.
+- **View Tasks** - Allows users to see all their saved tasks in one place.
+- **Edit Task** - Allows users to modify the details of an existing task.
+- **Delete Task** - Allows users to remove tasks that are no longer needed.
+- **Update Status** - Allows users to change a task's status, such as pending or completed.
+- **Light Mode/Dark Mode** - Allows users to switch between light and dark themes for a more comfortable viewing experience.
 
 ## Setup
 1. XAMPP run Apache and MySQL
